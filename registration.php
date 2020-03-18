@@ -11,4 +11,3 @@
     'Magefan_Blog',
     __DIR__
 );
-niraj
